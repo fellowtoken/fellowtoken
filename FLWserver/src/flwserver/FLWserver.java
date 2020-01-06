@@ -22,7 +22,7 @@ public class FLWserver {
      */
     public static void main(String[] args) throws IOException {
         // TODO code application logic here
-        final ServerSocket server = new ServerSocket(8080);
+        final ServerSocket server = new ServerSocket(3333);
         System.out.println("Listening...");
         while (true){
             //spin forever
