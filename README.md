@@ -1,10 +1,14 @@
 # fellowtoken
 Fellow Token. A solution to money.
 
-TODO: \n
-create unique identifiers \n
-store data in db \n
-create token \n
-allow multiple verification "nodes" \n
+TODO: 
 
-CHANGE LOG: \n
+create unique identifiers 
+
+store data in db 
+
+create token 
+
+allow multiple verification "nodes" 
+
+CHANGE LOG: 
