@@ -3,6 +3,10 @@ Fellow Token. A solution to money.
 
 TODO: 
 
+raise funding
+
+website contruction
+
 create unique identifiers 
 
 store data in db 
