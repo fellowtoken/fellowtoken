@@ -1,0 +1,67 @@
+/* this is the css for fellow token website */
+/* body attributes GENERAL */
+body {
+	background-color: #585551;
+}
+
+/* header 3 attributes GENERAL */
+h3 {
+	color: #71323D;
+}
+
+/* header 2 attributes GENERAL */
+h2 {
+	color: #71323D;
+}
+
+/* header 1 attributes GENERAL */
+h1 {
+	color: #71323D;
+}
+
+/* paragraph general font color */
+p {
+	color: black;
+}
+
+/* things that are in divs */
+/* header-logo */
+.header {
+	display: grid;
+	background-color: #DEC3AF;
+}
+
+/* info about fellow */
+.wrapper {
+	display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px;
+    grid-gap: 10px;
+}
+
+/* info for the footer of the page */
+.footer {
+	display: grid;
+	background-color: #DEC3AF;
+	grid-template-columns: 1fr;
+	grid-template-rows: 300px 300px;
+	grid-gap: 10px;
+}
+
+/* footer of the page */
+.footerbox {
+	background-color: #DEC3AF;
+}
+
+/* info boxes */
+.box1 {
+	background-color: #DEC3AF;
+}
+
+.box2 {
+	background-color: #DEC3AF;
+}
+
+.box3 {
+	background-color: #DEC3AF;
+}
